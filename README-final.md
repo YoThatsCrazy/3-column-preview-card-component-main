@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-(images/3-column-preview-card-solution.screenshot.jpg)
+![3-column-preview-card-solution screenshot](https://user-images.githubusercontent.com/97079116/163925775-d3ecb568-92af-4987-92c1-a171a565a5e3.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:
 - Live Site URL: (https://yothatscrazy.github.io/3-column-preview-card-component-main/)
 
 ## My process
